@@ -41,11 +41,11 @@ This project is a simple **Patient Management System** built using Java's **AWT*
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/PatientManagementSystem.git
+    [git clone https://github.com/yourusername/PatientManagementSystem.git](https://github.com/Prasad244/HospitalEmergency.git)
     ```
 2. **Navigate to the project directory**:
     ```bash
-    cd PatientManagementSystem
+    cd HospitalEmergency
     ```
 3. **Compile the Java files**:
     ```bash
@@ -53,19 +53,15 @@ This project is a simple **Patient Management System** built using Java's **AWT*
     ```
 4. **Run the application**:
     ```bash
-    java MainClassName
+    java EmergencyQueue
     ```
-   _(Replace `MainClassName` with the actual name of the main class in your project.)_
+   
 
 ### **Running the Application**
 
 - After running the application, a form will appear where you can enter the patient details.  
 - Choose the illness type from the dropdown menu and submit the form.  
 - The system will handle the patient queue automatically, processing one patient every **30 seconds**.
-
-## **Screenshots**
-
-_(You can add some screenshots of the application UI here.)_
 
 
 ## **Contact**
