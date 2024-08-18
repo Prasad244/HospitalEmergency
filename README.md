@@ -41,7 +41,7 @@ This project is a simple **Patient Management System** built using Java's **AWT*
 
 1. **Clone the repository**:
     ```bash
-    [git clone https://github.com/yourusername/PatientManagementSystem.git](https://github.com/Prasad244/HospitalEmergency.git)
+    https://github.com/Prasad244/HospitalEmergency.git
     ```
 2. **Navigate to the project directory**:
     ```bash
